@@ -22,4 +22,5 @@ python data_analysis.py
 - Data aggregation
 
 ## Author:
-Sravya Kovvuri
+Lavanya Beeraka
+
